@@ -15,5 +15,117 @@
       "name": "Tour trọn gói",
       "description": "Bao gồm vé máy bay, khách sạn, hướng dẫn viên."
     }
-  ]
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Tour Nha Trang 4 ngày 3 đêm",
+      "destination": "Nha Trang, Khánh Hòa",
+      "destinationSuggestions": [
+        "Nha Trang",
+        "Đà Nẵng",
+        "Phú Quốc",
+        "Hạ Long"
+      ],
+      "departure": "TP. Hồ Chí Minh",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-18",
+      "duration": "4 ngày 3 đêm",
+      "durationRange": "4-7 ngày",
+      "price": 4990000,
+      "images": [
+        "https://www.luavietours.com/wp/wp-content/uploads/2025/04/thap-ba-ponagar.jpg",
+        "https://www.luavietours.com/wp/wp-content/uploads/2025/04/chua-long-son-nha-trang.jpg"
+      ],
+      "description": "Trải nghiệm kỳ nghỉ tuyệt vời tại Nha Trang với bãi biển xanh, cát trắng và nhiều hoạt động giải trí hấp dẫn.",
+      "highlights": [
+        "Tắm biển và lặn ngắm san hô tại Hòn Mun",
+        "Tham quan VinWonders Nha Trang",
+        "Thưởng thức hải sản tươi ngon"
+      ],
+      "categoryid": 1,
+      "isfeatured": true,
+      "schedule": {
+        "day1": "TP.HCM - Nha Trang: Khởi hành, nhận phòng khách sạn, tự do tắm biển Nha Trang.",
+        "day2": "Khám phá 4 đảo: Lặn ngắm san hô tại Hòn Mun, bãi Tranh, tiệc nổi trên biển.",
+        "day3": "VinWonders Nha Trang: Trọn ngày vui chơi tại khu giải trí VinWonders (đã bao gồm vé).",
+        "day4": "Nha Trang - TP.HCM: Tham quan Tháp Bà Ponagar, chợ Đầm, sau đó ra sân bay về TP.HCM."
+      },
+      "priceDetails": {
+        "included": [
+          "Xe vận chuyển đời mới, máy lạnh.",
+          "Khách sạn tiêu chuẩn 3 sao (3 đêm).",
+          "Các bữa ăn theo chương trình (3 bữa sáng, 3 bữa trưa, 3 bữa tối).",
+          "Vé tham quan các điểm theo chương trình (trừ VinWonders).",
+          "Bảo hiểm du lịch."
+        ],
+        "excluded": [
+          "Vé máy bay/tàu hỏa khứ hồi TP.HCM - Nha Trang.",
+          "Vé VinWonders Nha Trang (khoảng 950.000 VNĐ).",
+          "Chi phí cá nhân, đồ uống, tips."
+        ]
+      },
+      "policy": {
+        "booking": "Đặt cọc 50% ngay khi đăng ký, thanh toán phần còn lại 7 ngày trước ngày khởi hành.",
+        "cancellation": "Hủy tour trước 15 ngày: hoàn 80% tiền tour; Hủy tour trước 7 ngày: hoàn 50% tiền tour; Hủy tour sau 7 ngày hoặc vắng mặt: không hoàn tiền.",
+        "notes": "Giá tour không áp dụng vào các dịp Lễ, Tết. Vui lòng mang theo CMND/CCCD/Hộ chiếu."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tour Đà Nẵng - Hội An 5 ngày 4 đêm",
+      "destination": "Đà Nẵng, Hội An",
+      "destinationSuggestions": [
+        "Đà Nẵng",
+        "Hội An",
+        "Huế",
+        "Phú Quốc"
+      ],
+      "departure": "Hà Nội",
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-24",
+      "duration": "5 ngày 4 đêm",
+      "durationRange": "4-7 ngày",
+      "price": 5790000,
+      "images": [
+        "https://www.luavietours.com/wp/wp-content/uploads/2023/06/cau-vang-da-nang.png",
+        "https://www.luavietours.com/wp/wp-content/uploads/2023/06/hoi-an-viet-nam.png"
+      ],
+      "description": "Khám phá phố cổ Hội An, bãi biển Mỹ Khê và Bà Nà Hills.",
+      "highlights": [
+        "Đi cáp treo Bà Nà Hills",
+        "Check-in Cầu Vàng nổi tiếng",
+        "Tham quan phố cổ Hội An về đêm"
+      ],
+      "categoryid": 1,
+      "isfeatured": false,
+      "schedule": {
+        "day1": "Hà Nội - Đà Nẵng: Đến Đà Nẵng, nhận phòng, tắm biển Mỹ Khê.",
+        "day2": "Bà Nà Hills: Khám phá 'Đường lên tiên cảnh' Bà Nà, check-in Cầu Vàng, Làng Pháp (Bao gồm vé cáp treo).",
+        "day3": "Đà Nẵng - Hội An: Tham quan Ngũ Hành Sơn, di chuyển đến Hội An, khám phá Phố cổ (Chùa Cầu, nhà cổ Phùng Hưng) về đêm.",
+        "day4": "Hội An - Huế: Di chuyển qua đèo Hải Vân, tham quan Đại Nội Huế, Chùa Thiên Mụ.",
+        "day5": "Huế - Hà Nội: Mua sắm đặc sản, tiễn khách ra sân bay Đà Nẵng về Hà Nội."
+      },
+      "priceDetails": {
+        "included": [
+          "Xe vận chuyển đời mới, máy lạnh.",
+          "Khách sạn tiêu chuẩn 3 sao (4 đêm).",
+          "Các bữa ăn theo chương trình (4 bữa sáng, 5 bữa chính).",
+          "Vé tham quan các điểm theo chương trình (Ngũ Hành Sơn, Hội An).",
+          "Vé cáp treo Bà Nà Hills.",
+          "Bảo hiểm du lịch."
+        ],
+        "excluded": [
+          "Vé máy bay khứ hồi Hà Nội - Đà Nẵng.",
+          "Chi phí cá nhân, đồ uống, mini bar."
+        ]
+      },
+      "policy": {
+        "booking": "Đặt cọc 40% ngay khi đăng ký. Thanh toán hết 10 ngày trước ngày khởi hành.",
+        "cancellation": "Hủy tour trước 15 ngày: phí 10% giá tour. Hủy tour từ 7-14 ngày: phí 30% giá tour. Hủy tour trong vòng 7 ngày: phí 100% giá tour.",
+        "notes": "Chương trình có thể thay đổi thứ tự tham quan nhưng vẫn đảm bảo đủ các điểm."
+      }
+    }
+  ],
+  "order": []
 }
